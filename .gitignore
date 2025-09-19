@@ -1,0 +1,23 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-store/
+
+# Playwright artifacts
+test-results/
+playwright-report/
+traces/
+videos/
+screenshots/
+
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+
+# OS / misc
+.DS_Store
+.env
