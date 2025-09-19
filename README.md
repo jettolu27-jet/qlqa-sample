@@ -7,6 +7,13 @@
 - CI via **GitHub Actions**, parallel cross-browser runs.  
 - Clean, maintainable structure and docs.
 
+## CI Results
+**All tests (Playwright TS, Python, and k6) are configured in GitHub Actions.
+✅ Playwright UI + API (TypeScript)
+✅ Python Playwright + requests
+✅ k6 smoke load test
+
+
 ## Run locally
 
 ### Playwright (TypeScript)
